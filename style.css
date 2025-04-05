@@ -24,7 +24,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: var(--Yellow);
-    margin: 50px auto;
+    margin: 100px auto;
 }
 
 .card{

@@ -50,16 +50,6 @@ Users should be able to:
       <button class="btn">Learning</button>
       <p class="pub">Published 21 Dec 2023</p>
 
-
-```css
-.avatar{
-    float: left;
-    width: 40px;
-    height: 40px;
-    margin-right: 12px;
-    margin-top: -10px;
-}
-
 ```
 
 ### Continued development
@@ -79,7 +69,7 @@ In future projects, I want to:
 ### Author
 
 - Website – [Michael Okorie](https://github.com/Michael-Okorie)
-- Frontend Mentor – [@Michael-Okorie](https://www.frontendmentor.io/profile/Michael-Okorie
+- Frontend Mentor – [@Michael-Okorie](https://www.frontendmentor.io/profile/Michael-Okorie)
 - Twitter – [@Dev_Michael_](https://www.twitter.com/Dev_Michael_)
 
 ### Acknowledgments
