@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Michael-Okorie/blog-preview-card.git]
+- Live Site URL: [https://michael-okorie.github.io/blog-preview-card/]
 
 ### Built with
 
