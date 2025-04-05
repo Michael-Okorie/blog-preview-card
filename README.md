@@ -68,7 +68,7 @@ In future projects, I want to:
 
 ### Author
 
-- Website – [Michael Okorie](https://github.com/Michael-Okorie)
+- Github – [Michael Okorie](https://github.com/Michael-Okorie)
 - Frontend Mentor – [@Michael-Okorie](https://www.frontendmentor.io/profile/Michael-Okorie)
 - Twitter – [@Dev_Michael_](https://www.twitter.com/Dev_Michael_)
 
